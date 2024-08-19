@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rattrapage_API", "Rattrapage_API\Rattrapage_API.csproj", "{27BEDB38-0DBF-41B3-B031-F956893BE25B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rattrapage_API.Tests", "Rattrapage_API_Test\Rattrapage_API.Tests.csproj", "{6C15E4B5-E409-44D0-A2A9-013A35B81405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27BEDB38-0DBF-41B3-B031-F956893BE25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BEDB38-0DBF-41B3-B031-F956893BE25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BEDB38-0DBF-41B3-B031-F956893BE25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BEDB38-0DBF-41B3-B031-F956893BE25B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C15E4B5-E409-44D0-A2A9-013A35B81405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C15E4B5-E409-44D0-A2A9-013A35B81405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C15E4B5-E409-44D0-A2A9-013A35B81405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C15E4B5-E409-44D0-A2A9-013A35B81405}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {760CC7A9-8812-43CE-85B4-A32E55336B0F}
+	EndGlobalSection
+EndGlobal

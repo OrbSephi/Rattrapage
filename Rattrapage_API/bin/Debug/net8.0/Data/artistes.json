@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "1",
+    "Nom": "John Doe",
+    "Genre": "Rock"
+  },
+  {
+    "Id": "2",
+    "Nom": "Jane Smith",
+    "Genre": "Pop"
+  },
+  {
+    "Id": "3",
+    "Nom": "The Jazz Masters",
+    "Genre": "Jazz"
+  },
+  {
+    "Id": "4",
+    "Nom": "DJ Electro",
+    "Genre": "Electronic"
+  },
+  {
+    "Id": "5",
+    "Nom": "Classical Ensemble",
+    "Genre": "Classical"
+  },
+  {
+    "Id": "6",
+    "Nom": "testeur",
+    "Genre": "test"
+  }
+]

@@ -1,0 +1,158 @@
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\nlog.config
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\appsettings.Development.json
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\appsettings.json
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Rattrapage_API.exe
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Rattrapage_API.deps.json
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Rattrapage_API.runtimeconfig.json
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Rattrapage_API.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Rattrapage_API.pdb
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Azure.Core.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\NLog.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.csproj.AssemblyReference.cache
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.AssemblyInfoInputs.cache
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.AssemblyInfo.cs
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.csproj.CoreCompileInputs.cache
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\staticwebassets\msbuild.Rattrapage_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\staticwebassets\msbuild.build.Rattrapage_API.props
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Rattrapage_API.props
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Rattrapage_API.props
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\scopedcss\bundle\Rattrapage_API.styles.css
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.csproj.CopyComplete
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\refint\Rattrapage_API.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.pdb
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.genruntimeconfig.cache
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\obj\Debug\net8.0\ref\Rattrapage_API.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Data\artistes.json
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\NLog.Web.AspNetCore.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\AutoMapper.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Donnees\Visual Studio\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\nlog.config
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\appsettings.json
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Data\artistes.json
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Rattrapage_API.exe
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Rattrapage_API.deps.json
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Rattrapage_API.runtimeconfig.json
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Rattrapage_API.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Rattrapage_API.pdb
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\NLog.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\NLog.Web.AspNetCore.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.csproj.AssemblyReference.cache
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.AssemblyInfoInputs.cache
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.AssemblyInfo.cs
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.csproj.CoreCompileInputs.cache
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\staticwebassets\msbuild.Rattrapage_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\staticwebassets\msbuild.build.Rattrapage_API.props
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Rattrapage_API.props
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Rattrapage_API.props
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\scopedcss\bundle\Rattrapage_API.styles.css
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapa.84BA8E1B.Up2Date
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\refint\Rattrapage_API.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.pdb
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\Rattrapage_API.genruntimeconfig.cache
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\obj\Debug\net8.0\ref\Rattrapage_API.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\tdapoigny\Desktop\Rattrapage\Rattrapage\Rattrapage_API\bin\Debug\net8.0\Moq.dll

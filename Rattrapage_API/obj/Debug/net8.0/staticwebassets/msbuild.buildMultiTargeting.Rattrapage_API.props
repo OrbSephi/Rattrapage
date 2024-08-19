@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Rattrapage_API.props" />
+</Project>

@@ -1,0 +1,180 @@
+2024-08-19 12:28:36.3520 Info Suppression de l'artiste avec ID "1" 
+2024-08-19 12:28:36.3892 Warn Artiste avec ID "1" non trouvé pour la mise à jour 
+2024-08-19 14:00:41.6203 Warn Artiste avec ID "1" non trouvé pour la suppression 
+2024-08-19 14:00:41.6520 Warn Artiste avec ID "1" non trouvé pour la mise à jour 
+2024-08-19 14:03:25.9283 Warn Artiste avec ID "1" non trouvé pour la suppression 
+2024-08-19 14:03:25.9640 Warn Artiste avec ID "1" non trouvé pour la mise à jour 
+2024-08-19 14:05:34.0200 Warn Artiste avec ID "1" non trouvé pour la suppression 
+2024-08-19 14:05:34.0552 Warn Artiste avec ID "1" non trouvé pour la mise à jour 
+2024-08-19 14:20:15.3024 Info Ajout d'un nouvel artiste : "Artiste 3" 
+2024-08-19 14:20:15.3287 Info Suppression de l'artiste avec ID "1" 
+2024-08-19 14:20:15.3338 Warn Artiste avec ID "1" non trouvé pour la suppression 
+2024-08-19 14:20:15.3338 Info Récupération de tous les artistes 
+2024-08-19 14:20:15.3338 Warn Artiste avec ID "1" non trouvé 
+2024-08-19 14:20:15.3338 Info Recherche d'artistes avec le nom contenant : "Artiste 1" 
+2024-08-19 14:20:15.3338 Info Mise à jour de l'artiste avec ID "1" 
+2024-08-19 14:20:15.3491 Warn Artiste avec ID "1" non trouvé pour la mise à jour 
+2024-08-19 14:35:42.9208 Warn Artiste avec ID "1" non trouvé pour la suppression 
+2024-08-19 14:35:42.9592 Warn Artiste avec ID "1" non trouvé pour la mise à jour 
+2024-08-19 14:38:12.4938 Info Ajout d'un nouvel artiste : "Artiste 3" 
+2024-08-19 14:38:12.5160 Info Suppression de l'artiste avec ID "1" 
+2024-08-19 14:38:12.5212 Warn Artiste avec ID "1" non trouvé pour la suppression 
+2024-08-19 14:38:12.5212 Info Récupération de tous les artistes 
+2024-08-19 14:38:12.5212 Warn Artiste avec ID "1" non trouvé 
+2024-08-19 14:38:12.5212 Info Recherche d'artistes avec le nom contenant : "Artiste 1" 
+2024-08-19 14:38:12.5212 Info Mise à jour de l'artiste avec ID "1" 
+2024-08-19 14:38:12.5366 Warn Artiste avec ID "1" non trouvé pour la mise à jour 
+2024-08-19 14:43:12.9722 Info Ajout d'un nouvel artiste : "Artiste 3" 
+2024-08-19 14:43:12.9939 Info Suppression de l'artiste avec ID "1" 
+2024-08-19 14:43:12.9939 Warn Artiste avec ID "1" non trouvé pour la suppression 
+2024-08-19 14:43:12.9939 Info Récupération de tous les artistes 
+2024-08-19 14:43:13.0052 Warn Artiste avec ID "1" non trouvé 
+2024-08-19 14:43:13.0052 Info Recherche d'artistes avec le nom contenant : "Artiste 1" 
+2024-08-19 14:43:13.0052 Info Mise à jour de l'artiste avec ID "1" 
+2024-08-19 14:43:13.0052 Warn Artiste avec ID "1" non trouvé pour la mise à jour 
+2024-08-19 15:12:00.5912 Info Ajout d'un nouvel artiste : "Artiste 3" 
+2024-08-19 15:12:00.6135 Info Suppression de l'artiste avec ID "1" 
+2024-08-19 15:12:00.6197 Warn Artiste avec ID "1" non trouvé pour la suppression 
+2024-08-19 15:12:00.6197 Info Récupération de tous les artistes 
+2024-08-19 15:12:00.6197 Warn Artiste avec ID "1" non trouvé 
+2024-08-19 15:12:00.6197 Info Recherche d'artistes avec le nom contenant : "Artiste 1" 
+2024-08-19 15:12:00.6197 Info Mise à jour de l'artiste avec ID "1" 
+2024-08-19 15:12:00.6395 Warn Artiste avec ID "1" non trouvé pour la mise à jour 
+2024-08-19 15:35:24.8286 Info Ajout d'un nouvel artiste : "Artiste 3" 
+2024-08-19 15:35:24.8461 Info Suppression de l'artiste avec ID "1" 
+2024-08-19 15:35:24.8477 Warn Artiste avec ID "1" non trouvé pour la suppression 
+2024-08-19 15:35:24.8477 Info Récupération de tous les artistes 
+2024-08-19 15:35:24.8477 Warn Artiste avec ID "1" non trouvé 
+2024-08-19 15:35:24.8477 Info Recherche d'artistes avec le nom contenant : "Artiste 1" 
+2024-08-19 15:35:24.8477 Info Mise à jour de l'artiste avec ID "1" 
+2024-08-19 15:35:24.8477 Warn Artiste avec ID "1" non trouvé pour la mise à jour 
+2024-08-19 16:55:22.0833 Info Ajout d'un nouvel artiste : "Artiste 3" 
+2024-08-19 16:55:22.1006 Info Suppression de l'artiste avec ID "1" 
+2024-08-19 16:55:22.1006 Warn Artiste avec ID "1" non trouvé pour la suppression 
+2024-08-19 16:55:22.1006 Info Récupération de tous les artistes 
+2024-08-19 16:55:22.1006 Warn Artiste avec ID "1" non trouvé 
+2024-08-19 16:55:22.1161 Warn Artiste avec ID "1" non trouvé 
+2024-08-19 16:55:22.1161 Info Recherche d'artistes avec le nom contenant : "Artiste 1" 
+2024-08-19 16:55:22.1383 Info Mise à jour de l'artiste avec ID "1" 
+2024-08-19 16:55:22.1383 Warn Artiste avec ID "1" non trouvé pour la mise à jour 
+2024-08-19 16:58:27.7549 Info Ajout d'un nouvel artiste : "Artiste 3" 
+2024-08-19 16:58:27.7739 Info Suppression de l'artiste avec ID "1" 
+2024-08-19 16:58:27.7739 Warn Artiste avec ID "1" non trouvé pour la suppression 
+2024-08-19 16:58:27.7739 Info Récupération de tous les artistes 
+2024-08-19 16:58:27.7739 Warn Artiste avec ID "1" non trouvé 
+2024-08-19 16:58:27.7739 Info Recherche d'artistes avec le nom contenant : "Artiste 1" 
+2024-08-19 16:58:27.8027 Info Mise à jour de l'artiste avec ID "1" 
+2024-08-19 16:58:27.8027 Warn Artiste avec ID "1" non trouvé pour la mise à jour 
+2024-08-19 17:00:22.0463 Info Recherche d'artistes avec le nom contenant : "Artiste" 
+2024-08-19 17:39:22.3075 Info Début de l'ajout de l'artiste "Artiste1". 
+2024-08-19 17:39:22.3259 Warn L'artiste "Artiste1" existe déjà. 
+2024-08-19 17:39:22.3365 Info Début de l'ajout de l'artiste "Artiste3". 
+2024-08-19 17:39:22.3365 Info Artiste "Artiste3" ajouté avec succès. 
+2024-08-19 17:39:22.3477 Info Début de la suppression de l'artiste avec ID "2". 
+2024-08-19 17:39:22.3477 Warn Artiste avec ID "2" non trouvé pour la suppression. 
+2024-08-19 17:39:22.3477 Info Début de la suppression de l'artiste avec ID "1". 
+2024-08-19 17:39:22.3477 Info Artiste avec ID "1" supprimé avec succès. 
+2024-08-19 17:39:22.3477 Info Début de la récupération de tous les artistes. 
+2024-08-19 17:39:22.3477 Info Récupération de 2 artistes réussie. 
+2024-08-19 17:39:22.3477 Info Recherche de l'artiste avec ID "1". 
+2024-08-19 17:39:22.3477 Warn Artiste avec ID "1" non trouvé. 
+2024-08-19 17:39:22.3477 Info Recherche de l'artiste avec ID "1". 
+2024-08-19 17:39:22.3477 Info Artiste avec ID "1" trouvé : "Artiste1". 
+2024-08-19 17:39:22.3705 Info Début de la mise à jour de l'artiste avec ID "2". 
+2024-08-19 17:39:22.3705 Warn Artiste avec ID "2" non trouvé pour la mise à jour. 
+2024-08-19 17:39:22.3705 Info Début de la mise à jour de l'artiste avec ID "1". 
+2024-08-19 17:39:22.3705 Info Artiste avec ID "1" mis à jour avec succès : Nouveau Nom = "UpdatedArtiste", Nouveau Genre = "Classical". 
+2024-08-19 17:39:22.3971 Info Ajout d'un nouvel artiste : "Artiste 3" 
+2024-08-19 17:39:22.3971 Info Suppression de l'artiste avec ID "1" 
+2024-08-19 17:39:22.3971 Warn Artiste avec ID "1" non trouvé pour la suppression 
+2024-08-19 17:39:22.3971 Info Récupération de tous les artistes 
+2024-08-19 17:39:22.3971 Error Erreur lors de la récupération de tous les artistes. 
+2024-08-19 17:39:22.3971 Info Artiste avec ID "1" trouvé. 
+2024-08-19 17:39:22.3971 Warn Artiste avec ID "1" non trouvé 
+2024-08-19 17:39:22.4108 Info Recherche d'artistes avec le nom contenant : "Artiste" 
+2024-08-19 17:39:22.4108 Info Mise à jour de l'artiste avec ID "1" 
+2024-08-19 17:39:22.4108 Warn Artiste avec ID "1" non trouvé pour la mise à jour 
+2024-08-19 17:50:29.0163 Info Ajout d'un nouvel artiste : "Artiste 3" 
+2024-08-19 17:50:29.0386 Info Suppression de l'artiste avec ID "1" 
+2024-08-19 17:50:29.0386 Warn Artiste avec ID "1" non trouvé pour la suppression 
+2024-08-19 17:50:29.0386 Info Récupération de tous les artistes 
+2024-08-19 17:50:29.0386 Error Erreur lors de la récupération de tous les artistes. 
+2024-08-19 17:50:29.0386 Info Artiste avec ID "1" trouvé. 
+2024-08-19 17:50:29.0386 Warn Artiste avec ID "1" non trouvé 
+2024-08-19 17:50:29.0523 Info Recherche d'artistes avec le nom contenant : "Artiste" 
+2024-08-19 17:50:29.0523 Info Mise à jour de l'artiste avec ID "1" 
+2024-08-19 17:50:29.0523 Warn Artiste avec ID "1" non trouvé pour la mise à jour 
+2024-08-19 17:50:29.0675 Info Début de l'ajout de l'artiste "Artiste1". 
+2024-08-19 17:50:29.0675 Warn L'artiste "Artiste1" existe déjà. 
+2024-08-19 17:50:29.0675 Info Début de l'ajout de l'artiste "Artiste3". 
+2024-08-19 17:50:29.0675 Info Artiste "Artiste3" ajouté avec succès. 
+2024-08-19 17:50:29.0675 Info Début de la suppression de l'artiste avec ID "2". 
+2024-08-19 17:50:29.0675 Warn Artiste avec ID "2" non trouvé pour la suppression. 
+2024-08-19 17:50:29.0675 Info Début de la suppression de l'artiste avec ID "1". 
+2024-08-19 17:50:29.0675 Info Artiste avec ID "1" supprimé avec succès. 
+2024-08-19 17:50:29.0675 Info Début de la récupération de tous les artistes. 
+2024-08-19 17:50:29.0675 Info Récupération de 2 artistes réussie. 
+2024-08-19 17:50:29.0675 Info Recherche de l'artiste avec ID "1". 
+2024-08-19 17:50:29.0675 Warn Artiste avec ID "1" non trouvé. 
+2024-08-19 17:50:29.0675 Info Recherche de l'artiste avec ID "1". 
+2024-08-19 17:50:29.0675 Info Artiste avec ID "1" trouvé : "Artiste1". 
+2024-08-19 17:50:29.0675 Info Début de la mise à jour de l'artiste avec ID "2". 
+2024-08-19 17:50:29.0675 Warn Artiste avec ID "2" non trouvé pour la mise à jour. 
+2024-08-19 17:50:29.0675 Info Début de la mise à jour de l'artiste avec ID "1". 
+2024-08-19 17:50:29.0675 Info Artiste avec ID "1" mis à jour avec succès : Nouveau Nom = "UpdatedArtiste", Nouveau Genre = "Classical". 
+2024-08-19 17:53:53.9302 Info Ajout d'un nouvel artiste : "Artiste 3" 
+2024-08-19 17:53:53.9518 Info Suppression de l'artiste avec ID "1" 
+2024-08-19 17:53:53.9574 Warn Artiste avec ID "1" non trouvé pour la suppression 
+2024-08-19 17:53:53.9574 Info Récupération de tous les artistes 
+2024-08-19 17:53:53.9574 Error Erreur lors de la récupération de tous les artistes. 
+2024-08-19 17:53:53.9574 Info Artiste avec ID "1" trouvé. 
+2024-08-19 17:53:53.9574 Warn Artiste avec ID "1" non trouvé 
+2024-08-19 17:53:53.9574 Info Recherche d'artistes avec le nom contenant : "Artiste" 
+2024-08-19 17:53:53.9756 Info Mise à jour de l'artiste avec ID "1" 
+2024-08-19 17:53:53.9756 Warn Artiste avec ID "1" non trouvé pour la mise à jour 
+2024-08-19 17:53:53.9756 Info Début de l'ajout de l'artiste "Artiste1". 
+2024-08-19 17:53:53.9756 Warn L'artiste "Artiste1" existe déjà. 
+2024-08-19 17:53:53.9756 Info Début de l'ajout de l'artiste "Artiste3". 
+2024-08-19 17:53:53.9756 Info Artiste "Artiste3" ajouté avec succès. 
+2024-08-19 17:53:53.9887 Info Début de la suppression de l'artiste avec ID "2". 
+2024-08-19 17:53:53.9887 Warn Artiste avec ID "2" non trouvé pour la suppression. 
+2024-08-19 17:53:53.9887 Info Début de la suppression de l'artiste avec ID "1". 
+2024-08-19 17:53:53.9887 Info Artiste avec ID "1" supprimé avec succès. 
+2024-08-19 17:53:53.9887 Info Début de la récupération de tous les artistes. 
+2024-08-19 17:53:53.9887 Info Récupération de 2 artistes réussie. 
+2024-08-19 17:53:53.9887 Info Recherche de l'artiste avec ID "1". 
+2024-08-19 17:53:53.9887 Warn Artiste avec ID "1" non trouvé. 
+2024-08-19 17:53:53.9887 Info Recherche de l'artiste avec ID "1". 
+2024-08-19 17:53:53.9887 Info Artiste avec ID "1" trouvé : "Artiste1". 
+2024-08-19 17:53:53.9887 Info Début de la mise à jour de l'artiste avec ID "2". 
+2024-08-19 17:53:53.9887 Warn Artiste avec ID "2" non trouvé pour la mise à jour. 
+2024-08-19 17:53:53.9887 Info Début de la mise à jour de l'artiste avec ID "1". 
+2024-08-19 17:53:53.9887 Info Artiste avec ID "1" mis à jour avec succès : Nouveau Nom = "UpdatedArtiste", Nouveau Genre = "Classical". 
+2024-08-19 17:54:03.9740 Info Ajout d'un nouvel artiste : "Artiste 3" 
+2024-08-19 17:54:03.9957 Info Suppression de l'artiste avec ID "1" 
+2024-08-19 17:54:03.9957 Warn Artiste avec ID "1" non trouvé pour la suppression 
+2024-08-19 17:54:03.9957 Info Récupération de tous les artistes 
+2024-08-19 17:54:04.0062 Error Erreur lors de la récupération de tous les artistes. 
+2024-08-19 17:54:04.0062 Info Artiste avec ID "1" trouvé. 
+2024-08-19 17:54:04.0062 Warn Artiste avec ID "1" non trouvé 
+2024-08-19 17:54:04.0062 Info Recherche d'artistes avec le nom contenant : "Artiste" 
+2024-08-19 17:54:04.0062 Info Mise à jour de l'artiste avec ID "1" 
+2024-08-19 17:54:04.0062 Warn Artiste avec ID "1" non trouvé pour la mise à jour 
+2024-08-19 17:54:04.0229 Info Début de l'ajout de l'artiste "Artiste1". 
+2024-08-19 17:54:04.0229 Warn L'artiste "Artiste1" existe déjà. 
+2024-08-19 17:54:04.0229 Info Début de l'ajout de l'artiste "Artiste3". 
+2024-08-19 17:54:04.0229 Info Artiste "Artiste3" ajouté avec succès. 
+2024-08-19 17:54:04.0229 Info Début de la suppression de l'artiste avec ID "2". 
+2024-08-19 17:54:04.0229 Warn Artiste avec ID "2" non trouvé pour la suppression. 
+2024-08-19 17:54:04.0229 Info Début de la suppression de l'artiste avec ID "1". 
+2024-08-19 17:54:04.0229 Info Artiste avec ID "1" supprimé avec succès. 
+2024-08-19 17:54:04.0229 Info Début de la récupération de tous les artistes. 
+2024-08-19 17:54:04.0229 Info Récupération de 2 artistes réussie. 
+2024-08-19 17:54:04.0229 Info Recherche de l'artiste avec ID "1". 
+2024-08-19 17:54:04.0229 Warn Artiste avec ID "1" non trouvé. 
+2024-08-19 17:54:04.0229 Info Recherche de l'artiste avec ID "1". 
+2024-08-19 17:54:04.0229 Info Artiste avec ID "1" trouvé : "Artiste1". 
+2024-08-19 17:54:04.0229 Info Début de la mise à jour de l'artiste avec ID "2". 
+2024-08-19 17:54:04.0229 Warn Artiste avec ID "2" non trouvé pour la mise à jour. 
+2024-08-19 17:54:04.0229 Info Début de la mise à jour de l'artiste avec ID "1". 
+2024-08-19 17:54:04.0229 Info Artiste avec ID "1" mis à jour avec succès : Nouveau Nom = "UpdatedArtiste", Nouveau Genre = "Classical". 
